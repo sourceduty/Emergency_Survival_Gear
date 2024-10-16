@@ -19,7 +19,7 @@ With an emphasis on real-world usability, Emergency & Survival Gear avoids purel
 <br>
 [Animal Product](https://github.com/sourceduty/Animal_Product)
 <br>
-[Ermergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
 <br>
 [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
 <br>
