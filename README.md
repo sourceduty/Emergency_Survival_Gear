@@ -22,6 +22,8 @@ With an emphasis on real-world usability, Emergency & Survival Gear avoids purel
 [Ermergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
 <br>
 [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
+<br>
+[Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
