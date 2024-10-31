@@ -8,6 +8,11 @@
 With an emphasis on real-world usability, Emergency & Survival Gear avoids purely speculative or futuristic ideas, instead prioritizing designs that could be realistically implemented. Each concept comes with a detailed explanation of the product’s purpose, key features, and unique functionalities, balancing technical details with visual appeal. The goal is to help users understand not only what these survival products look like but also how they work, making it a valuable resource for anyone interested in emergency preparedness and survival gear innovation.
 
 #
+### Custom GPTs
+
+Emergency Survival Gear is more focused on gear and supplies, ideal for those preparing emergency kits or looking for recommendations on reliable survival equipment. [Survival Tech](https://github.com/sourceduty/Survival_Tech) is best for individuals seeking to learn survival skills and technologies, with an emphasis on practical techniques and adaptability.
+
+#
 ![Emergency   Survival Gear](https://github.com/user-attachments/assets/18df59bd-93a1-4183-9eef-c8cfca069c2c)
 
 #
@@ -28,8 +33,6 @@ With an emphasis on real-world usability, Emergency & Survival Gear avoids purel
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
 <br>
 [Military](https://github.com/sourceduty/Military)
-<br>
-[Survival Tech](https://github.com/sourceduty/Survival_Tech)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
