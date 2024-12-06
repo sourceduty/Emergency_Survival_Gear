@@ -42,6 +42,10 @@ Emergency Survival Gear is more focused on gear and supplies, ideal for those pr
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
 <br>
 [Military](https://github.com/sourceduty/Military)
+<br>
+[Off-Grid Wiki](https://github.com/sourceduty/Off-Grid_Wiki)
+<br>
+[Survival Tech](https://github.com/sourceduty/Survival_Tech)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
